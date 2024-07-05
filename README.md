@@ -41,7 +41,7 @@ This project demonstrates how to build and train a Long Short-Term Memory (LSTM)
 ### Usage
 
 This project is designed for those interested in time series forecasting and neural network models. It provides a complete pipeline from data preprocessing to model evaluation and visualization, which is useful for learning and applying LSTM networks in financial predictions.
-
+To better understand this code, download the code file along with the dataset file and run it in your Jupyter Notebook.
 
 https://github.com/jaweria15
 You can feel free to contribute or raise any other issues for further improvements.
